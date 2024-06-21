@@ -36,7 +36,8 @@ Using the created URL backend.singhritesh85.com access the application as shown 
 ![image](https://github.com/singhritesh85/DevOps-Project-3-tier-Application-Deployment/assets/56765895/31287e1e-d3f2-4f0d-95c2-a79fc4e9c670)
 After Successful deployment we can see the Applications in ArgoCD as shown in the screenshot below.
 ![image](https://github.com/singhritesh85/DevOps-Project-3-tier-Application-Deployment/assets/56765895/56cc0a92-0c17-4c5d-bdba-9aa0ef97c722)
-
+<br><br/>
+For Installation of SonarQube, Nginx Ingress Controller and ArgoCD you can refer the project https://github.com/singhritesh85/DevOps-Project-2tier-WebApp-Deployment/tree/main/Project-1.
 <br><br/>
 <br><br/>
 <br><br/>
