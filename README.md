@@ -24,6 +24,11 @@ echo "cGFzc3dvcmQxMjM="|base64 --decode
 ```
 The screenshot for SonarQube Analysis is shown below.
 ![image](https://github.com/singhritesh85/DevOps-Project-3-tier-Application-Deployment/assets/56765895/fbd0843c-2ec5-4cb8-98fe-2bb15cc5c687)
+<br><br/>
 To keep the Docker Images for frontend and backend I have created two Private Repositories with the name of frontend and backend respectively in Elastic Container Registry (ECR) as shown in the screenshot below.
 ![image](https://github.com/singhritesh85/DevOps-Project-3-tier-Application-Deployment/assets/56765895/649640b1-be15-434e-834c-70760321d73a)
+<br><br/>
+After Successfully Running the three Jenkins Job (successfully deployment of the three-tier Application) create the URL for the application using the file ingress-rule.yaml present inside the directory ingress-rule-pv-pvc-mongodbsecret with the command kubectl apply -f ingress-rule.yaml. Create a record set for the URL inside the hosted zone as shown in the screenshot below.
+![image](https://github.com/singhritesh85/DevOps-Project-3-tier-Application-Deployment/assets/56765895/9a079699-2b41-4111-a68e-0de87dd5572e)
+
 
