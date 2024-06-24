@@ -1,4 +1,4 @@
-# DevOps-Project-3-tier-Application-Deployment
+# DevOps-Project-3-tier-Application-Deployment-Aws
 ![image](https://github.com/singhritesh85/DevOps-Project-3-tier-Application-Deployment/assets/56765895/da9fb238-073b-4b68-8f83-90ed31ba7256)
 <br><br/>
 The Source Code for this project is present in the GitHub Repository https://github.com/singhritesh85/TWSThreeTierAppChallenge.git inside the directory Application-Code.
