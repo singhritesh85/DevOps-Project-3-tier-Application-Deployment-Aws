@@ -11,7 +11,7 @@ pipeline{
     }
     parameters { 
         string(name: 'COMMIT_ID', defaultValue: '', description: 'Provide the Commit ID') 
-        string(name: 'REPO_NAME_BACKEND', defaultValue: '', description: 'Provide the ECR Repository Name for Frontend Application Image')
+        string(name: 'REPO_NAME_BACKEND', defaultValue: '', description: 'Provide the ECR Repository Name for Backend Application Image')
         string(name: 'TAG_NAME', defaultValue: '', description: 'Provide the TAG Name')
     }
     stages{
